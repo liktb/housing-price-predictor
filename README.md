@@ -1,4 +1,4 @@
-# 🏡 Real Estate Valuation & Housing Price Predictor
+# Real Estate Valuation & Housing Price Predictor
 
 A production-grade machine learning regression pipeline built to predict housing prices using Random Forest algorithms, optimized for hackathon submissions.
 
